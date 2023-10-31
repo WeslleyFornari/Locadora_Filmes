@@ -1,0 +1,19 @@
+
+  #card-filme {
+    height: 100px;
+    width: auto; /* Defina a largura desejada para o card */
+    margin: 0 auto; /* Isso centraliza o card horizontalmente */
+
+    /*display: flex; */
+    justify-content: center; /* Alinha horizontalmente ao centro */
+    align-items: center; /* Alinha verticalmente ao centro */
+
+    max-height: 100%; /* Garante que a imagem não ultrapasse a largura do card */
+
+    border: 5px 2px 2px 2px solid #999898;
+    border-radius: 10px; /* Arredonda os cantos da borda */
+    
+}
+
+  
+  
